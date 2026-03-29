@@ -1,68 +1,89 @@
-<h1 align="center">Hi 👋, I'm Manmaya Rama</h1>
+
+<div align="center">
+<h2 align="center">👋 Hi, I'm Manmaya Rama</h2>
 <h3 align="center">It's Me Diving Into The Depths Of Computer World...</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manmayarama&label=Profile%20views&color=0e75b6&style=flat" alt="manmayarama" /> </p>
+</div>
 
-- 📫 How to reach me **manmayram@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/manmaya_rama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manmaya_rama" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manmaya-rama-k-a-28a520257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/manmaya-rama-k-a-28a520257" height="30" width="40" /></a>
-<a href="https://www.facebook.com/people/Manmaya-Rama/100011129234326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://m.facebook.com/profile.php?id=100011129234326" height="30" width="40" /></a>
-<a href="https://instagram.com/i_a_m_manu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/i_a_m_manu/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/manmaya_rama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manmaya_rama" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/manmaya_rama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manmaya_rama" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@manmaya_rama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@manmaya_rama" height="30" width="40" /></a>
-</p>
+<img align="right" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="251" height="170" alt="coding gif"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="background-color: white; border-radius: 4px;"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/1460763?s=280&v=4" alt="Cloudinary" width="40" height="40"/>
-  </a>
-  <a href="https://clerk.dev/" target="_blank" rel="noreferrer">
-    <img src="https://uploads.productlane.com/7254258eb34a7b4626b86f0fbd4c1ed6.png" alt="Clerk" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://similarpng.com/_next/image?url=https%3A%2F%2Fimage.similarpng.com%2Ffile%2Fsimilarpng%2Fvery-thumbnail%2F2020%2F06%2FLogo-google-cloud-icon-vector-PNG.png&w=3840&q=75" alt="Google Cloud" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-</p>
+```yaml
+name: Manmaya Rama K A
+located_in: [Mangalore, India]
+job: [Student]
+education: [Bachelor of Engineering in Computer Science]
+cgpa: 7.73 / 10.00
+fields_of_interests: [Full-stack Development, AI-ML, DevSecOps, MLOps, Blockchain]
+hobbies: [Building Projects, Exploring Tech, Problem Solving, Photography]
+````
+
+---
+
+## 🚀 Tech Stack
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center">Languages</th>
+      <th align="center">Frameworks / Libraries</th>
+      <th align="center">Tools & Platforms</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <kbd>C</kbd> <kbd>C++</kbd> <kbd>Java</kbd> <kbd>Python</kbd> <kbd>JavaScript</kbd> <kbd>SQL</kbd> <kbd>NoSQL</kbd>
+      </td>
+      <td align="center">
+        <kbd>React.js</kbd> <kbd>Node.js</kbd> <kbd>Express.js</kbd> <kbd>Angular.js</kbd> <kbd>Mongoose</kbd>
+      </td>
+      <td align="center">
+        <kbd>Git</kbd> <kbd>GitHub</kbd> <kbd>MySQL</kbd> <kbd>MongoDB</kbd> <kbd>XAMPP</kbd> <kbd>Docker</kbd> <kbd>Postman</kbd> <kbd>GCP</kbd> <kbd>Vercel</kbd> <kbd>Firebase</kbd> <kbd>AWS</kbd>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+##  <img src="https://cdn-icons-png.flaticon.com/512/2821/2821637.png" alt="Logo" width="24" style="vertical-align: middle;"/> Projects
+
+### <img src="https://github.com/Manmayarama/PixelCrafter/blob/main/client/src/assets/logo_icon.svg" alt="Logo" height="20" width="20" style="vertical-align: middle;"/> PixelCrafter (AI Image Generation Platform)
+
+* AI-powered image generation with authentication & credit system
+* Integrated secure payments using Razorpay
+* **Tech:** React, Node.js, MongoDB, JWT, ClipDrop API
+
+### <img src="https://github.com/Manmayarama/QuickScreen/blob/main/client/public/favicon.svg" alt="Logo" height="20" width="20" style="vertical-align: middle;"/>  QuickScreen (Movie Ticket Booking System)
+
+* Real-time seat booking + admin analytics dashboard
+* Payment integration and notification system
+* **Tech:** React, Node.js, Clerk, Stripe, TMDB API
+
+### <img src="https://github.com/Manmayarama/EasyConsult/blob/main/frontend/public/logo.svg" alt="Logo" height="22" width="22" style="vertical-align: middle;"/>  EasyConsult (Doctor Appointment System)
+
+* Appointment scheduling with secure payments & notifications
+* User profiles and real-time updates
+* **Tech:** React, Node.js, MongoDB, Razorpay, Cloudinary
+
+###  <img src="https://github.com/Manmayarama/Blockchain-based-NFT-Marketplace/blob/main/app/favicon.ico" alt="Logo" height="22" width="22" style="vertical-align: middle;"/> NFT Marketplace
+
+* Built ERC-721 smart contracts using Hardhat
+* Enabled minting, ownership tracking, and transfers
+* **Tech:** Solidity, React, Node.js, Pinata
+
+---
+
+## 📫 Connect with Me
+
+* <a href="mailto:manmayarama@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="manmaya_rama" height="18" width="18" /></a> Email: [manmayarama@gmail.com](mailto:manmayarama@gmail.com)
+* <a href="https://manmayarama.github.io" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/10453/10453141.png" alt="manmaya_rama" height="18" width="18" /></a>  Portfolio: [https://manmayarama.github.io](https://manmayarama.github.io)
+* <a href="https://linkedin.com/in/manmaya-rama" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" alt="manmaya_rama" height="18" width="18" /></a> LinkedIn: [https://linkedin.com/in/manmaya-rama](https://linkedin.com/in/manmaya-rama)
+* <a href="https://instagram.com/i_a_m_manu/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" alt="manmaya_rama" height="18" width="18" /></a> Instagram: [https://instagram.com/i_a_m_manu/](https://instagram.com/i_a_m_manu/)
+* <a href="https://twitter.com/manmaya_rama" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="manmaya_rama" height="18" width="18" /></a> X: [https://x.com/manmaya_rama](https://twitter.com/manmaya_rama)
+* <a href="https://www.hackerrank.com/profile/manmaya_rama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manmaya_rama" height="18" width="18" /></a> HackerRank: [https://www.hackerrank.com/profile/manmaya_rama](https://www.hackerrank.com/profile/manmaya_rama)
+* <a href="https://leetcode.com/u/manmaya_rama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manmaya_rama" height="18" width="18" /></a> LeetCode: [https://leetcode.com/u/manmaya_rama/](https://leetcode.com/u/manmaya_rama/)
+
+---
+

@@ -9,13 +9,15 @@
 <img align="right" src="https://camo.githubusercontent.com/62cf3b1249cb16e770ea25bb3e7a12925f50065e8aa4bd0b26e805b2a10b7689/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="251" height="170" alt="coding gif"/>
 
 ```yaml
-name: Manmaya Rama K A
-located_in: [Mangalore, India]
-job: [Student]
-education: [Bachelor of Engineering in Computer Science]
-cgpa: 7.73 / 10.00
-fields_of_interests: [Full-stack Development, AI-ML, DevSecOps, MLOps, Blockchain]
-hobbies: [Building Projects, Exploring Tech, Problem Solving, Photography]
+{
+  name: Manmaya Rama K A
+  located_in: Mangalore, India
+  job: Student
+  education: Bachelor of Engineering in Computer Science
+  cgpa: 7.73 / 10.00
+  fields_of_interests: Full-stack Development, AI-ML, DevSecOps, MLOps, Blockchain
+  hobbies: Building Projects, Exploring Tech, Problem Solving, Photography
+}
 ````
 
 ---
@@ -82,7 +84,7 @@ hobbies: [Building Projects, Exploring Tech, Problem Solving, Photography]
 * <a href="https://linkedin.com/in/manmaya-rama" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4494/4494497.png" alt="manmaya_rama" height="18" width="18" /></a> LinkedIn: [linkedin.com/in/manmaya-rama](https://linkedin.com/in/manmaya-rama)
 * <a href="https://instagram.com/i_a_m_manu/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3955/3955024.png" alt="manmaya_rama" height="18" width="18" /></a> Instagram: [instagram.com/i_a_m_manu/](https://instagram.com/i_a_m_manu/)
 * <a href="https://twitter.com/manmaya_rama" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" alt="manmaya_rama" height="18" width="18" /></a> X: [x.com/manmaya_rama](https://twitter.com/manmaya_rama)
-* <a href="https://www.hackerrank.com/profile/manmaya_rama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manmaya_rama" height="18" width="18" /></a> HackerRank: [hackerrank.com/profile/manmaya_rama](https://www.hackerrank.com/profile/manmaya_rama)
+* <a href="https://www.hackerrank.com/profile/manmaya_rama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manmaya_rama" height="18" width="18" /></a> HackerRank: [hackerrank.com/manmaya_rama](https://www.hackerrank.com/profile/manmaya_rama)
 * <a href="https://leetcode.com/u/manmaya_rama/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manmaya_rama" height="18" width="18" /></a> LeetCode: [leetcode.com/u/manmaya_rama/](https://leetcode.com/u/manmaya_rama/)
 
 ---

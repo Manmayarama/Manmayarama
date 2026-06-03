@@ -13,7 +13,7 @@
   located_in: Mangalore, India
   job: Student
   education: Bachelor of Engineering in Computer Science
-  cgpa: 7.73 / 10.00
+  cgpa: 7.94 / 10.00
   fields_of_interests: Full-stack Development, AI-ML, DevSecOps, MLOps, Blockchain
   hobbies: Building Projects, Exploring Tech, Problem Solving, Photography
 ````
